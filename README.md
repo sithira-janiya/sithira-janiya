@@ -25,5 +25,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sithira--janiya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sithira-janiya/)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sithira-janiya&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=sithira-janiya&theme=dark" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithira-janiya&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 _“Code. Break. Fix. Learn. Repeat.”_
