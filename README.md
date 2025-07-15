@@ -1,38 +1,66 @@
-# 👋 Hi, I'm Sithira Janiya
+<h1 align="left">👋 Hello! I'm Sithira Janiya</h1>
 
-🎓 I'm an undergraduate IT student at **SLIIT**, passionate about tech, problem-solving, and building real-world apps.
-
-🚀 My goal is to become a **DevOps Engineer**, and I’m currently learning:
-
-- 🔧 MERN stack (MongoDB, Express, React, Node)
-- 🐳 Docker & Kubernetes
-- ☁️ Cloud Platforms (AWS)
-- ⚙️ CI/CD with GitHub Actions
-
----
-
-## 🛠 My Tech Stack
-
-- **Languages:** Java, JavaScript, C, C++, HTML, CSS, SQL
-- **Frameworks:** React, Node.js, Express, Spring Boot
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, VS Code, IntelliJ, Postman, Firebase
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sithira--janiya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sithira-janiya/)
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sithira-janiya&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=sithira-janiya&theme=dark" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithira-janiya&layout=compact&theme=dark" alt="Top Languages" />
+<p align="left">
+🎓 I'm an undergraduate IT student at <strong>SLIIT</strong>, passionate about tech, problem-solving, and building real-world apps. <br>
+🚀 My goal is to become a <strong>DevOps Engineer</strong>, and I’m currently learning:
 </p>
 
-_“Code. Break. Fix. Learn. Repeat.”_
+<ul align="left">
+  <li>🧩 MERN stack (MongoDB, Express, React, Node)</li>
+  <li>⚓ Docker & Kubernetes</li>
+  <li>☁️ Cloud Platforms (AWS)</li>
+  <li>⚙️ CI/CD with GitHub Actions</li>
+</ul>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/devops-hacker.png" width="200" alt="DevOps Illustration"/>
+</p>
+
+---
+
+## ⚡ Tech Vibes
+
+### 🧠 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,html,css,c,cpp" />
+</p>
+
+### ☁️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,azure,sqlite" />
+</p>
+
+### 🛠 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,github,git,linux,postman,vscode,intellij" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sithira-janiya&theme=github_dark" width="100%"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sithira-janiya&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sithira-janiya&theme=github_dark&utcOffset=+5" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sithira-janiya&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sithira-janiya&theme=github_dark" />
+</div>
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sithira-janiya/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code. Break. Fix. Learn. Repeat.”</i>
+</p>
