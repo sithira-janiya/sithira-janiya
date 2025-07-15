@@ -13,7 +13,7 @@
 </ul>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/devops-hacker.png" width="200" alt="DevOps Illustration"/>
+  <img src="https://raw.githubusercontent.com/sithira-janiya/sithira-janiya/main/assets/devops-hacker.png" alt="DevOps Animation" width="100%" />
 </p>
 
 ---
