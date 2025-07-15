@@ -12,8 +12,10 @@
   <li>⚙️ CI/CD with GitHub Actions</li>
 </ul>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/sithira-janiya/sithira-janiya/main/assets/devops-hacker.png" alt="DevOps Animation" width="100%" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/sithira-janiya/sithira-janiya/main/assets/devops-hacker.gif" alt="DevOps Animation" width="300px" />
+</p>
+
 </p>
 
 ---
