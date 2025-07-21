@@ -13,7 +13,8 @@
 </ul>
 
   <p align="center">
-  <img src="https://raw.githubusercontent.com/sithira-janiya/sithira-janiya/main/assets/devops-hackerupdated.gif" alt="DevOps Animation" width="300px" />
+    <img src="https://raw.githubusercontent.com/sithira-janiya/sithira-janiya/main/assets/fullstack.gif" width="300px" />
+
 </p>
 
 </p>
