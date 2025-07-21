@@ -26,6 +26,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,html,css,c,cpp" />
 </p>
+![fulstack](https://github.com/user-attachments/assets/5fb34095-b293-47aa-9d15-4e6d3b823e1f)
 
 ### ☁️ Databases & Cloud
 <p>
