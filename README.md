@@ -1,15 +1,15 @@
 <h1 align="left">👋 Hello! I'm Sithira Janiya</h1>
 
 <p align="left">
-I'm an undergraduate IT student at <strong>SLIIT</strong>, passionate about tech, problem-solving, and building real-world apps. <br>
-My goal is to become a <strong>DevOps Engineer</strong>, and I’m currently learning:
+I'm an undergraduate IT student at <strong>SLIIT</strong>, passionate about building modern web applications and solving real-world problems through technology. <br>
+My goal is to become a <strong>Full Stack Developer</strong>, and I’m currently learning and working with:
 </p>
 
 <ul align="left">
-  <li>MERN stack (MongoDB, Express, React, Node)</li>
-  <li>Docker & Kubernetes</li>
-  <li>Cloud Platforms (AWS)</li>
-  <li>CI/CD with GitHub Actions</li>
+  <li>Java & Spring Boot for backend development</li>
+  <li>MERN stack (MongoDB, Express, React, Node.js)</li>
+  <li>REST API development</li>
+  <li>Modern frontend development with React</li>
 </ul>
 
   <p align="center">
