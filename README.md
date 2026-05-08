@@ -1,70 +1,145 @@
-<h1 align="left">👋 Hello! I'm Sithira Janiya</h1>
+<h1 align="center">Hi 👋, I'm Sithira Janiya</h1>
 
-<p align="left">
-🎓 I'm an undergraduate IT student at <strong>SLIIT</strong>, passionate about tech, problem-solving, and building real-world apps. <br>
-🚀 My goal is to become a <strong>DevOps Engineer</strong>, and I’m currently learning:
-</p>
+<h3 align="center">Full Stack Developer Intern | MERN Stack | Java & Spring Boot | IT Undergraduate</h3>
 
-<ul align="left">
-  <li>🧩 MERN stack (MongoDB, Express, React, Node)</li>
-  <li>⚓ Docker & Kubernetes</li>
-  <li>☁️ Cloud Platforms (AWS)</li>
-  <li>⚙️ CI/CD with GitHub Actions</li>
-</ul>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/sithira-janiya/sithira-janiya/main/assets/fullstack.gif" width="300px" />
-
-</p>
-
-</p>
-
----
-
-## ⚡ Tech Vibes
-
-### 🧠 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,html,css,c,cpp" />
-</p>
-![fulstack](https://github.com/user-attachments/assets/5fb34095-b293-47aa-9d15-4e6d3b823e1f)
-
-### ☁️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,firebase,azure,sqlite" />
-</p>
-
-### 🛠 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,github,git,linux,postman,vscode,intellij" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sithira-janiya&theme=github_dark" width="100%"/>
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sithira-janiya&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sithira-janiya&theme=github_dark&utcOffset=+5" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sithira-janiya&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sithira-janiya&theme=github_dark" />
-</div>
-
----
-
-## 📫 Contact Me
-
-<p>
-  <a href="https://www.linkedin.com/in/sithira-janiya/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="center">
+  <a href="https://portfolio-dun-kappa-31.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/sithira-janiya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sithirajaniya87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sithira-janiya/sithira-janiya/main/assets/coding.gif" width="650" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **3rd-year IT undergraduate at SLIIT** and an aspiring **Full Stack Developer Intern** with hands-on experience in building web applications using **MERN Stack**, **Java**, and **Spring Boot**.
+
+I enjoy developing real-world software solutions, creating REST APIs, working with databases, and improving my skills in backend development, frontend development, Linux, and DevOps.
+
+- 🔭 Currently working on full stack academic and personal projects
+- 🌱 Learning Spring Boot, DevOps, Docker, Linux, and system design
+- 💻 Interested in Full Stack Development, Backend Engineering, and REST API development
+- 🎯 Goal: Become a professional Full Stack Software Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,sqlite" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,postman,vscode,intellij,vercel" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🏠 StayMate Boarding House Management System
+
+**MERN Stack | MongoDB | Express.js | React.js | Node.js**
+
+A boarding house management system for tenant registration, room allocation, meal management, authentication, and database-driven operations.
+
+🔗 [GitHub Repository](https://github.com/sithira-janiya/stay_mate)
+
+---
+
+### 💼 NextStep Job Portal Management System
+
+**Next.js | Node.js | Express.js | PostgreSQL | JWT**
+
+A full stack job portal system for students, companies, and administrators with authentication, role-based access control, job postings, and application management.
+
+🔗 [GitHub Repository](https://github.com/sithira-janiya/The-NextStep-Platform)
+
+---
+
+### 🧪 Lab Management System
+
+**Java | MySQL | REST API | Linux**
+
+A role-based system for managing lab bookings, schedules, test records, backend services, and RESTful API operations.
+
+🔗 [GitHub Repository](https://github.com/sithira-janiya/lab-system)
+
+---
+
+### 🎓 Smart Campus Management System
+
+**Spring Boot | React | MySQL | JWT | OAuth**
+
+A full stack campus management system for facility booking, incident management, authentication, and role-based access control.
+
+🔗 [GitHub Repository](https://github.com/sithira-janiya/it3030-paf-2026-smart-campus-group-PAF_WE_03_02)
+
+---
+
+## 📜 Certification
+
+### MongoDB Java Developer Path
+
+Completed training covering MongoDB Atlas, CRUD operations, aggregation pipelines, indexing, data modeling, and Java integration using MongoDB Java Driver.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sithira-janiya&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithira-janiya&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithira-janiya&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://portfolio-dun-kappa-31.vercel.app">Portfolio</a> •
+  <a href="https://linkedin.com/in/sithira-janiya">LinkedIn</a> •
+  <a href="mailto:sithirajaniya87@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code. Break. Fix. Learn. Repeat.”</i>
+  <i>"Code. Learn. Build. Improve. Repeat."</i>
 </p>
