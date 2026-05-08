@@ -3,10 +3,10 @@
 <h3 align="center">Full Stack Developer Intern | MERN Stack | Java & Spring Boot | IT Undergraduate</h3>
 
 <p align="center">
-  <a href="https://portfolio-dun-kappa-31.vercel.app">
+  <a href="https://portfolio-dun-kappa-31.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sithira-janiya">
+  <a href="https://linkedin.com/in/sithira-janiya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sithirajaniya87@gmail.com">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sithira-janiya/sithira-janiya/main/assets/coding.gif" width="650" />
+  <img src="https://raw.githubusercontent.com/sithira-janiya/sithira-janiya/main/assets/coding.gif" width="430" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ I enjoy developing real-world software solutions, creating REST APIs, working wi
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,postman,vscode,intellij,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,postman,vscode" />
 </p>
 
 ---
@@ -103,29 +103,31 @@ A full stack campus management system for facility booking, incident management,
 ## 📜 Certification
 
 ### MongoDB Java Developer Path
-Completed training covering MongoDB Atlas, CRUD operations, aggregation pipelines, indexing, data modeling, and Java integration using MongoDB Java Driver.
+
+Completed MongoDB Java Developer Path covering MongoDB Atlas, CRUD operations, aggregation pipelines, indexing, data modeling, and Java integration using MongoDB Java Driver.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sithira-janiya&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithira-janiya&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithira-janiya&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sithira-janiya&theme=tokyonight" width="500" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="https://portfolio-dun-kappa-31.vercel.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/sithira-janiya">LinkedIn</a> •
-  <a href="mailto:sithirajaniya87@gmail.com">Email</a>
+<p align="center">
+  <a href="https://portfolio-dun-kappa-31.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sithira-janiya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sithirajaniya87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
