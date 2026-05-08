@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sithira Janiya</h1>
 
-<p align="left">
-🎓 I'm an undergraduate IT student at <strong>SLIIT</strong>, passionate about tech, problem-solving, and building real-world apps. <br>
-🚀 My goal is to become a <strong>DevOps Engineer</strong>, and I’m currently learning:
-</p>
-
-<ul align="left">
-  <li>🧩 MERN stack (MongoDB, Express, React, Node)</li>
-  <li>⚓ Docker & Kubernetes</li>
-  <li>☁️ Cloud Platforms (AWS)</li>
-  <li>⚙️ CI/CD with GitHub Actions</li>
-</ul>
+<h3 align="center">Full Stack Developer Intern | MERN Stack | Java & Spring Boot | IT Undergraduate</h3>
 
 <p align="center">
   <a href="https://portfolio-dun-kappa-31.vercel.app">
@@ -36,41 +26,36 @@ I am a **3rd-year IT undergraduate at SLIIT** and an aspiring **Full Stack Devel
 
 I enjoy developing real-world software solutions, creating REST APIs, working with databases, and improving my skills in backend development, frontend development, Linux, and DevOps.
 
-- 🔭 Currently working on full stack academic and personal projects
-- 🌱 Learning Spring Boot, DevOps, Docker, Linux, and system design
-- 💻 Interested in Full Stack Development, Backend Engineering, and REST API development
-- 🎯 Goal: Become a professional Full Stack Software Engineer
+- 🔭 Currently working on full stack academic and personal projects  
+- 🌱 Learning Spring Boot, DevOps, Docker, Linux, and system design  
+- 💻 Interested in Full Stack Development, Backend Engineering, and REST API development  
+- 🎯 Goal: Become a professional Full Stack Software Engineer  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp" />
 </p>
 
 ### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ### Backend
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
 ### Databases
-
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,sqlite" />
 </p>
 
 ### Tools & Platforms
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,postman,vscode,intellij,vercel" />
 </p>
@@ -80,7 +65,6 @@ I enjoy developing real-world software solutions, creating REST APIs, working wi
 ## 📌 Featured Projects
 
 ### 🏠 StayMate Boarding House Management System
-
 **MERN Stack | MongoDB | Express.js | React.js | Node.js**
 
 A boarding house management system for tenant registration, room allocation, meal management, authentication, and database-driven operations.
@@ -90,7 +74,6 @@ A boarding house management system for tenant registration, room allocation, mea
 ---
 
 ### 💼 NextStep Job Portal Management System
-
 **Next.js | Node.js | Express.js | PostgreSQL | JWT**
 
 A full stack job portal system for students, companies, and administrators with authentication, role-based access control, job postings, and application management.
@@ -100,7 +83,6 @@ A full stack job portal system for students, companies, and administrators with 
 ---
 
 ### 🧪 Lab Management System
-
 **Java | MySQL | REST API | Linux**
 
 A role-based system for managing lab bookings, schedules, test records, backend services, and RESTful API operations.
@@ -110,7 +92,6 @@ A role-based system for managing lab bookings, schedules, test records, backend 
 ---
 
 ### 🎓 Smart Campus Management System
-
 **Spring Boot | React | MySQL | JWT | OAuth**
 
 A full stack campus management system for facility booking, incident management, authentication, and role-based access control.
@@ -122,7 +103,6 @@ A full stack campus management system for facility booking, incident management,
 ## 📜 Certification
 
 ### MongoDB Java Developer Path
-
 Completed training covering MongoDB Atlas, CRUD operations, aggregation pipelines, indexing, data modeling, and Java integration using MongoDB Java Driver.
 
 ---
