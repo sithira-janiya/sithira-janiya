@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sithira Janiya</h1>
 
-<h3 align="center">Full Stack Developer Intern | MERN Stack | Java & Spring Boot | IT Undergraduate</h3>
+<p align="left">
+🎓 I'm an undergraduate IT student at <strong>SLIIT</strong>, passionate about tech, problem-solving, and building real-world apps. <br>
+🚀 My goal is to become a <strong>DevOps Engineer</strong>, and I’m currently learning:
+</p>
+
+<ul align="left">
+  <li>🧩 MERN stack (MongoDB, Express, React, Node)</li>
+  <li>⚓ Docker & Kubernetes</li>
+  <li>☁️ Cloud Platforms (AWS)</li>
+  <li>⚙️ CI/CD with GitHub Actions</li>
+</ul>
 
 <p align="center">
   <a href="https://portfolio-dun-kappa-31.vercel.app">
